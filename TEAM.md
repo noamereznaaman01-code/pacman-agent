@@ -2,7 +2,7 @@
 
 **Course:** _[fill your course code and name]_
 
-**Semester:** Semester 2, 2020
+**Semester:** Semester 1, 2025
 
 **Instructor:** _[name of your instructor]_
 
@@ -10,9 +10,8 @@
 
 **Team members:**
 
-* Student 1's Student number - Full Name - Student email - Student Github id
+* 268628 - Aurore Rakotoarivony - Student email - AuroreRakoto
 * Student 2's Student number - Full Name - Student email - Student Github id
-* Student 3's Student number - Full Name - Student email - Student Github id
 
 Replace the lines above with the correct details of members. Delete or add lines as needed.
 
